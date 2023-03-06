@@ -7,7 +7,7 @@
 
 :book: You can check out documentation relating to plugins [here](https://grafana.com/docs/grafana/latest/developers/plugins/).  
 
-:hammer_and_wrench: We also provide open source tooling to help you [create](), [validate]() and [sign]() new plugins.  
+:hammer_and_wrench: We also provide open source tooling to help you [create](https://github.com/grafana/plugin-tools/blob/main/packages/create-plugin/README.md), [validate](https://github.com/grafana/plugin-validator/) and [sign](https://github.com/grafana/plugin-tools/blob/main/packages/sign-plugin/README.md) new plugins.  
 
 :speech_balloon: If you want to chat or if I can be of assistance, DM me on the [Grafana Slack](https://slack.grafana.com/) `@David Harris`
 
