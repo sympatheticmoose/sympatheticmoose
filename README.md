@@ -11,6 +11,7 @@
 
 :speech_balloon: If you want to chat or if I can be of assistance, DM me on the [Grafana Slack](https://slack.grafana.com/) `@David Harris`
 
+IT'S MOOSE MAY - [photo credit](https://www.flickr.com/photos/144302732@N07/28257079788)
 
 
 <!--
