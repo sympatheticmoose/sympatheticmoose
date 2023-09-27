@@ -3,10 +3,10 @@
 ### 👋 Hi there, I'm David
 :rocket:  I'm currently working as a Product Manager [@Grafana](https://grafana.com/), focussing on making it easy to extend Grafana capabilities and bring yet more data into our open observability platform via plugins.
 
-:shopping_cart: You can browse the [plugin catalog](https://grafana.com/grafana/plugins/) to discover the rich ecosystem of available integrations and extensions.  
+:shopping_cart: Browse the [plugin catalog](https://grafana.com/grafana/plugins/) to discover the rich ecosystem of available plugins - apps, data sources and panels.  
 
-:book: You can check out documentation relating to plugins [here](https://grafana.com/docs/grafana/latest/developers/plugins/).  
+:book: Check out our [developer portal](https://grafana.com/developers/) to help guide plugin development.
 
-:hammer_and_wrench: We also provide open source tooling to help you [create](https://github.com/grafana/plugin-tools/blob/main/packages/create-plugin/README.md), [validate](https://github.com/grafana/plugin-validator/) and [sign](https://github.com/grafana/plugin-tools/blob/main/packages/sign-plugin/README.md) new plugins.  
+:hammer_and_wrench: Leverage our open source tooling to help you [create](https://www.npmjs.com/package/@grafana/create-plugin), [validate](https://github.com/grafana/plugin-validator/) and [sign](https://www.npmjs.com/package/@grafana/sign-plugin) new plugins.  
 
 :speech_balloon: If you want to chat or if I can be of assistance, DM me on the [Grafana Slack](https://slack.grafana.com/) `@David Harris`
